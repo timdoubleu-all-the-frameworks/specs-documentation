@@ -74,14 +74,18 @@ ___
 1. [Vanille JS](http://vanilla-js.com/)
     - Doing modern state management and component type frontend stuff with mostly just pure DOM manipulation (Maybe some jquery)
     - [MobX, state management for vanilla JS](https://github.com/mobxjs/mobx)
-1. [Preact](https://preactjs.com/)
-1. [Svelte](https://svelte.dev/)
 1. [React](https://reactjs.org/)
     - With and without Redux?
 1. [Vue](https://vuejs.org/)
-1. [Re:DOM](https://redom.js.org/)
 1. [ReasonML](https://reasonml.github.io/)
 1. [Elm](https://elm-lang.org/) 
+
+#### JS Frontends ('Micro-frameworks', minimalist style frameworks)
+1. [Mithril.js](https://mithril.js.org/)
+1. [Zepto](https://zeptojs.com/)
+1. [Preact](https://preactjs.com/)
+1. [Svelte](https://svelte.dev/)
+1. [Re:DOM](https://redom.js.org/)
 
 #### Javascript Tooling
 1. [Create React App](https://create-react-app.dev/docs/getting-started/)
